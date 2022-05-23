@@ -232,9 +232,9 @@ class _ChatState extends State<Chat> {
     FireMessaging.startRecieveNotifications(widget.currentChat.chatId);
     scrollController = ScrollController();
     scrollController.addListener(() {
-      if (scrollController.position.pixels == scrollController.position.minScrollExtent)
-      {
-        
+      if (scrollController.position.pixels ==
+          scrollController.position.minScrollExtent) {
+        Firestore.fireStoreInstance.collection(chatCollectionPath);
       }
     });
     isSelection = false;
