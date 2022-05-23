@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480000211312",
+    "project_id": "mptmessager",
+    "storage_bucket": "mptmessager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480000211312:android:7646b02fb801cc0224b7b5",
+        "android_client_info": {
+          "package_name": "com.example.mptmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480000211312-gk12lb1v897gmrqhutre2ggs1i4u7au5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mptmessenger",
+            "certificate_hash": "d1a4e825eac6d5a03ecb1219f31fcdfc36e170a3"
+          }
+        },
+        {
+          "client_id": "480000211312-6rmtaenpv2pnutgvojcllfgja2i8kad2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDscF9vGqY7BCHJFzU4ihTa65IVbyRhDgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480000211312-6rmtaenpv2pnutgvojcllfgja2i8kad2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

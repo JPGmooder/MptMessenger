@@ -1,0 +1,13 @@
+com/llfbandit/record/MethodCallHandlerImpl.java
+ com.llfbandit.record.MethodCallHandlerImpl
+com/llfbandit/record/RecorderBase.java
+ com.llfbandit.record.RecorderBase
+com/llfbandit/record/BuildConfig.java
+ com.llfbandit.record.BuildConfig
+com/llfbandit/record/AudioRecorder.java
+ com.llfbandit.record.AudioRecorder
+ com.llfbandit.record.AudioRecorder$RecordDataWriter
+com/llfbandit/record/MediaRecorder.java
+ com.llfbandit.record.MediaRecorder
+com/llfbandit/record/RecordPlugin.java
+ com.llfbandit.record.RecordPlugin

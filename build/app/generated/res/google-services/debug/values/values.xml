@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">480000211312-6rmtaenpv2pnutgvojcllfgja2i8kad2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">480000211312</string>
+    <string name="google_api_key" translatable="false">AIzaSyDscF9vGqY7BCHJFzU4ihTa65IVbyRhDgs</string>
+    <string name="google_app_id" translatable="false">1:480000211312:android:7646b02fb801cc0224b7b5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDscF9vGqY7BCHJFzU4ihTa65IVbyRhDgs</string>
+    <string name="google_storage_bucket" translatable="false">mptmessager.appspot.com</string>
+    <string name="project_id" translatable="false">mptmessager</string>
+</resources>
